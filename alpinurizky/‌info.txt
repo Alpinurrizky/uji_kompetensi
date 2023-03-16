@@ -1,0 +1,9 @@
+nama  : alpi nur rizky
+kelas : xii rpl 2
+
+
+judul aplikasi: pengelolaan apliaksi laundry
+
+link gifhub : https://github.com/Alpinurrizky/uji_kompetensi
+
+link hosting : https://alpilaundry.000webhostapp.com
